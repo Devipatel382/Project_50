@@ -1,0 +1,25 @@
+*{
+       padding:solid rgb(255, 0, 0);
+}  
+
+header{
+    border-image: 50cm;
+    background-image: repeating-linear-gradient( rgb(255, 0, 0),
+     rgb(255, 166, 0), rgb(229, 255, 0), rgb(51, 255, 0), rgb(0, 255, 157),
+       rgb(132, 237, 255), rgb(183, 0, 255));
+}
+.Panda{
+    background-image: repeating-linear-gradient(rgb(0, 0, 0), rgb(255, 255, 255));
+}
+.camel{
+    background-image: repeating-linear-gradient(rgb(255, 187, 0), rgb(251, 255, 0));
+}
+.chameleon{
+    background-image: repeating-linear-gradient(rgb(0, 255, 0), rgb(26, 112, 4));
+}
+.pigeon{
+    background-image: repeating-linear-gradient(rgb(0, 183, 255), rgb(0, 60, 255));
+}
+.bug{
+    background-image: repeating-linear-gradient(rgb(112, 73, 0), rgb(255, 255, 255));
+}
